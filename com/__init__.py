@@ -46,3 +46,4 @@ from com.bca.openapi.client.entity.internalaccountinquiryrequest.InternalAccount
 from com.bca.openapi.client.entity.sharedbillerinquirypaymentstatusrequest.SharedBillerRequest import SharedBillerRequest
 from com.bca.openapi.client.entity.sharedbillerbillpresentmentrequest.SharedBillerRequest import SharedBillerRequest
 from com.bca.openapi.client.entity.sharedbillerpaymentflagrequest.SharedBillerRequest import SharedBillerRequest, PaidAmount
+import com.banking_info
