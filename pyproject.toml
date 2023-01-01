@@ -15,4 +15,3 @@ classifiers = [
 
 [project.urls]
 "Homepage" = "https://github.com/catdogman/banking_package"
-"Bug Tracker" = "https://github.com/catdogman/banking_package/issues"
