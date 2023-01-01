@@ -10,7 +10,7 @@ setuptools.setup(
     author_email="realryangames@gmail.com",
     description= "com library for bca banking",
     more_description = more_description,
-    more_description_content_type="text/markdown"
+    more_description_content_type="text/markdown",
     url="https://github.com/catdogman/banking_package",
     license = "MIT",
     packages = ["com"],
