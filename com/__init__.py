@@ -1,1 +1,1 @@
-import com.banking_info
+from com.banking_info import *
